@@ -1,7 +1,7 @@
 # AI Powered Automation Testing TestVerse
 Final year BSC project: An AI-powered web application for software testing, integrating Flask, Selenium, and the Google Gemini API.
 
-# Prem TestVerse - An AI-Powered Automation Testing Platform
+# TestVerse - An AI-Powered Automation Testing Platform
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Flask](https://img.shields.io/badge/Flask-black?logo=flask)

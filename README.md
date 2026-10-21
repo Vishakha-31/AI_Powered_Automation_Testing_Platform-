@@ -8,7 +8,7 @@ Final year BSC project: An AI-powered web application for software testing, inte
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-An advanced, full-stack web application designed for a final year MCA project. Prem TestVerse demonstrates the powerful integration of Artificial Intelligence with both black-box and white-box software testing methodologies.
+An advanced, full-stack web application designed for a final year BSC project. TestVerse demonstrates the powerful integration of Artificial Intelligence with both black-box and white-box software testing methodologies.
 
 ---
 

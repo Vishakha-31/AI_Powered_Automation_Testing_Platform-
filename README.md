@@ -1,5 +1,5 @@
 # AI Powered Automation Testing TestVerse
-Final year MCA project: An AI-powered web application for software testing, integrating Flask, Selenium, and the Google Gemini API.
+Final year BSC project: An AI-powered web application for software testing, integrating Flask, Selenium, and the Google Gemini API.
 
 # Prem TestVerse - An AI-Powered Automation Testing Platform
 
